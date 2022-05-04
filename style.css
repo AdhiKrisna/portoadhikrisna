@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 6 rem;
+
+  background-color: #9beaf67d;
+}
+.lead {
+  font-size: 25px;
+  font-weight: bold;
+}
+.nama {
+  font-weight: bold;
+
+  margin-top: 20px;
+}
+
+.card {
+  padding-top: 2rem;
+}
+
+#pendidikan {
+  background-color: #9beaf67d;
+}
+
+.footer {
+  background-color: #9beaf67d;
+}
+.fotososmed {
+  padding: 2rem;
+  margin: 50px;
+}
+section {
+  padding-top: 5rem;
+}
+#sosmed {
+  background-color: #9beaf67d;
+}
+
+.alert {
+  margin-top: 20px;
+}
